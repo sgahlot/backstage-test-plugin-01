@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-test-plugin-component
+  name: dummy-plugin-component
 spec:
   lifecycle: production
-  owner: my-team
+  owner: sg-team-dummy
   type: service
