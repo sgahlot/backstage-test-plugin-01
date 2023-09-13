@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dummy-plugin-component
+  annotations:
+    github.com/project-slug: sgahlot/backstage-test-plugin-01
 spec:
   lifecycle: production
   owner: user: guest
