@@ -4,5 +4,5 @@ metadata:
   name: dummy-plugin-component
 spec:
   lifecycle: production
-  owner: sg-team-dummy
+  owner: user: guest
   type: service
