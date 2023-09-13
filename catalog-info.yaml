@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: sgahlot/backstage-test-plugin-01
 spec:
   lifecycle: production
-  owner: user: guest
+  owner: user:guest
   type: service
